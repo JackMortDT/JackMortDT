@@ -13,13 +13,11 @@
 
 - 🔭 I’m currently working as a Software Developer
 
-- 🌱 I’m currently using **Elixir, Ruby** on the backend side and **React/TS** on the frontend
-
-- 💬 I feel comftable with **Elixir and Groovy**
+- 🌱 I’m currently using **Elixir/Phoenix, Ruby/Rails** on the backend side and **React/TS** on the frontend
 
 - 💬 I like to program with **Elixir, Go and Groovy**
 
-- 📫 Also I have a personal [blog](https://jackmortdt.github.io/) made with [Hugo](https://gohugo.io/)
+- 📫 Also I have a personal 🙉[blog](https://jackmortdt.github.io/) made with [Hugo](https://gohugo.io/)
 
 ### Languages and Tools
 
