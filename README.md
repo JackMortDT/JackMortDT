@@ -17,7 +17,7 @@
 
 - 💬 I like to program with **Elixir, Go and Groovy**
 
-- 📫 Also I have a personal 🙉[blog](https://jackmortdt.github.io/) made with [Hugo](https://gohugo.io/)
+- 📫 Also I have a personal 📖 [blog](https://jackmortdt.github.io/) made with [Hugo](https://gohugo.io/)
 
 ### Languages and Tools
 
