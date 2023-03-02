@@ -1,6 +1,6 @@
 <h2 align="center">Hi! I'm Luis Sastré. 🦎</h2>
 <p align="center">
-  <a href="*">Blog</a>
+  <a href="https://jackmortdt.github.io/">Blog</a>
 </p>
 
 
