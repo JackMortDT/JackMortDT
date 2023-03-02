@@ -1,4 +1,4 @@
-<h2 align="center">Hello! I'm Luis Sastré. 🦎</h2>
+<h2 align="center">Hi! I'm Luis Sastré. 🦎</h2>
 <p align="center">
   <a href="*">Blog</a>
 </p>
