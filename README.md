@@ -18,7 +18,7 @@
 * 🏴‍☠️ Working full-time as a Software Developer
   * Elixir BackEnd developer
   * FrontEnd developer with React/TS
-* 🧙‍♂️ Using daily: `.ex` `.exs` `.ts` `.html` `.yml` `.rb` `.js`
+* 🧙‍♂️ Using daily: `.ex` `.exs` `.ts` `.html` `.yml` `.rb` `.js` `.go`
 
 ## About me 🫣
 
