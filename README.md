@@ -16,12 +16,12 @@
 </div>
 
 * 🏴‍☠️ Working full-time as a Software Developer
-  * Elixir BackEnd developer
-* 🧙‍♂️ Using daily: `.ex` `.exs` `.yml` `.json` `.xml`
+  * Elixir and Clojure BackEnd developer
+* 🧙‍♂️ Using daily: `.ex` `.exs` `.clj` `.json`
 
 ## About me 🫣
 
-- 💬 I like to program with **Elixir, Go and Groovy**
+- 💬 I like to program with **Elixir, Clojure and Go**
 
 - 📖 Also I have a personal [blog](https://jackmortdt.github.io/) made with [Hugo](https://gohugo.io/)
 
